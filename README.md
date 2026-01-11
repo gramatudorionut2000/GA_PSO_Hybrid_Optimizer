@@ -232,7 +232,7 @@ result = optimize(X, y, model='random_forest', gpu_config=config)
 .
 ├── api.py                 # High-level API
 ├── hybrid_optimizer.py    # Hybrid GA-PSO implementation
-├── genetic_algorithm.py         # GPU-accelerated genetic algorithm
+├── genetic_algorithm.py   # GPU-accelerated genetic algorithm
 ├── particle_swarm.py      # GPU-accelerated PSO
 ├── nested_cv.py           # Nested cross-validation
 ├── evaluation.py          # Model evaluation pipeline
@@ -249,7 +249,7 @@ result = optimize(X, y, model='random_forest', gpu_config=config)
 ├── config.py              # Global configuration
 ├── common.py              # Common utilities
 ├── utils.py               # Helper functions
-└── examples.py            # Usage examples
+
 ```
 
 ## Algorithm Details
