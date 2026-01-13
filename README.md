@@ -1,7 +1,3 @@
-# AI use disclaimer
-
-Large language models have been used in the development of this application, for fast-prototyping and error-checking. The readme file has been generated using LLMs, and manually reviewed and edited.
-
 # Hybrid GA-PSO Hyperparameter Optimization Framework
 
 A GPU-accelerated hybrid optimization framework combining Genetic Algorithms (GA) and Particle Swarm Optimization (PSO) for simultaneous hyperparameter tuning and feature selection in machine learning models.
